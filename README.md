@@ -153,9 +153,11 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors KARLIE MOYO - [Github](https://github.com/Karlie-crypto) / [Twitter](https://twitter.com/karlieemoyo)  
+## Authors  
+KARLIE MOYO - [Github](https://github.com/Karlie-crypto) / [Twitter](https://twitter.com/karlieemoyo)  
+NCHEDO OKONGWU - [Github](https://github.com/Dchedos)  
 
+Second part of Airbnb: Joann Vuong  
 
-Second part of Airbnb: Joann Vuong
 ## License
 https://github.com/Karlie-crypto/AirBnB_clone_v3.gitPublic Domain. No copy write protection. 
