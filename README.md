@@ -152,14 +152,14 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
+# Bugs
 No known bugs at this time. 
 
-## Authors  
+# Authors  
 KARLIE MOYO - [Github](https://github.com/karlie-moyo) / [Twitter](https://twitter.com/karlieemoyo)  
 NCHEDO OKONGWU - [Github](https://github.com/Dchedos)  
 
 Second part of Airbnb: Joann Vuong  
 
-## License
+# License
 https://github.com/karlie-moyo/AirBnB_clone_v3.gitPublic Domain. No copy write protection. 
